@@ -1,2 +1,2 @@
 Parallax Effect
-file:///C:/Users/tania/Downloads/Desktop/parrallexeffect/prarallexeffect.html
+                                           file:///C:/Users/tania/Downloads/Desktop/parrallexeffect/prarallexeffect.html
